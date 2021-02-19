@@ -13,10 +13,10 @@ import {
 
 export default function App() {
     const units = [
-      { name: "건담", model: "RX-78-2" }, 
-      { name: "자쿠II", model: "MS-06F"},
-      { name: "건탱크", model: "RX-75"}, 
-      { name: "건캐논", model: "RX-77-2"},
+        { name: "건담", model: "RX-78-2" }, 
+        { name: "자쿠II", model: "MS-06F"},
+        { name: "건탱크", model: "RX-75"}, 
+        { name: "건캐논", model: "RX-77-2"},
     ]
     
     const onClick = (item) => {
